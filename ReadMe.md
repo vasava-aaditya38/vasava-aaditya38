@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:<br><br>👋 Hey! I'm **Aaditya Vasava**.<br><br>🎓 Class 11 Science student.<br><br>💻 Passionate about **Programming, Cybersecurity & Ethical Hacking**.<br><br>🐍 Currently learning **Python, C, Linux & Networking**.<br><br>🛡️ Exploring **Network Security, OSINT & Penetration Testing**.<br><br>🐧 Using **Kali Linux** to explore cybersecurity tools and concepts.<br><br>🚀 I love building real-world projects and improving my coding skills.<br><br>⚡ **My Mindset:** `Skills > Degree | Learn • Build • Improve`<br><br>> "I don't just want to use technology. I want to understand how it works."
 
 
